@@ -34,11 +34,7 @@ This project includes the following topics
 
   - Navigation & Toast Events
 
-  - etc.
-
-- Reusable Error Handling Framework
-
-- Salesforce Community - For the project, we are using Customer Community 
+  
 
 > 
 
